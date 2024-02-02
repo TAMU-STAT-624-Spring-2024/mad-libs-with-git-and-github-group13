@@ -3,11 +3,11 @@
 3. Adjective
 4. Color
 5. Month
-6. one and a half
-7. meteorological anomalies
-8. sausage links
-9. a sense of confusion
-10. introspection chamber
+6. Number
+7. Noun (Plural)
+8. Noun (Plural)
+9. Noun
+10. Room Name
 11. Liquid
 12. Adjective
 13. Material
