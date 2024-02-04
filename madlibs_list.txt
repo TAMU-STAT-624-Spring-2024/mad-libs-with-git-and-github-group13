@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Groot
+2. enormous
+3. distant
+4. purple
+5. May
 6. one and a half
 7. meteorological anomalies
 8. sausage links
